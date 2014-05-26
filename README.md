@@ -4,7 +4,7 @@ tidy_data as asked (step5), but only the steps from 1-4. Unfortunately, the dead
 It was my fault anyways.
 
 ### Important note2:
-Since I think the dataset of step 5 is completely independent from the one of step 4, it included all the original variables and not
+Since I think the dataset of step 5 has mothing to do with the one of step 4, it included all the original variables and not
 only the means and standar deviations. 
 
 
