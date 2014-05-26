@@ -5,7 +5,7 @@ It was my fault anyways.
 
 ### Important note2:
 Since I think the dataset of step 5 has mothing to do with the one of step 4, it included all the original variables and not
-only the means and standar deviations. 
+only the means and standar deviations. I have the dataset of step 5 here in github, and the one of stpes 1-4 in the coursera upload database. They have the same name.
 
 
 ### Script Description
