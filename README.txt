@@ -12,7 +12,6 @@ was created.
 ### Code
 
 <!-- -->
-
       library(plyr) # import libraries
       setwd("getdata_projectfiles_UCI HAR Dataset") # go to main directory where data is
       setwd("UCI HAR Dataset")
