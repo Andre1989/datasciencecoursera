@@ -54,4 +54,7 @@ names(mean_std_data) <- sub("std","Std",names(mean_std_data))
 names(mean_std_data) <- gsub("-","",names(mean_std_data))
 names(mean_std_data) <- sub("\\()","",names(mean_std_data))
 # Computed the mean values of the features
-meanFeatures <-ddply(total_data, c(.(Subject),.(Activity)),summarize,colMeans=colMeans(total_data[[4:564]]))
+measure_vars <- names(total_data[4:564])
+melt <- melt(total_data,id=c("Subject","Selection","Activity",),measure.vars=measure_vars)
+tidy_data <- dcast(melt,Subject+Activity~variable,mean)
+write.table(tidy_data, "d:/mydata.txt", sep="\t")
