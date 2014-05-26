@@ -1,4 +1,4 @@
-### Codebook:
+### Datasets and Variables:
 
 labels: activity labels dataset. It comes from the file "activity_labels.txt". It has 2 variables:
 * Activity_ID: activity number
@@ -50,3 +50,11 @@ Transformations:
 mean_std_data: the mean and standard deviations variables from the analysed data were extracted. There are 33 means and 33 corresponding standard deviations. Those variables names were simplified, by removing special characters and applying other transformations to turn them better readable. 
 
 meanFeatures: independent tidy data set with the average of each variable for each activity and each subject.
+
+### Steps:
+
+  1 - Merges the training and the test sets to create one data set.
+  2 - Extracts only the measurements on the mean and standard deviation for each measurement. 
+  3 - Uses descriptive activity names to name the activities in the data set
+  4 - Appropriately labels the data set with descriptive activity names. 
+  5 - Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
