@@ -76,11 +76,11 @@ total_data: complete dataset resulting in the merge of 'test_data' and 'train_da
 
 * V1 till V561: the features indexes
 
-Transformations:
+  Transformations:
 
-* Selection_ID converted into Selection, a factor conaining 2 level: test and train
+  * Selection_ID converted into Selection, a factor conaining 2 level: test and train
 
-* Activity_ID converted into Activity, a factor containing 6 levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS
+  * Activity_ID converted into Activity, a factor containing 6 levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS
 
 , SITTING
 
