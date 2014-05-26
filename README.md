@@ -3,6 +3,11 @@ By mistake, I updated a wrong previous version of the dataset in coursera. It is
 tidy_data as asked (step5), but only the steps from 1-4. Unfortunately, the deadline has passed. So I uploaded here in github the final dataset. It is up to you to accept this new tidy dataset or strictly follow the rules and only accept the previous one.
 It was my fault anyways.
 
+### Important note2:
+Since I think the dataset of step 5 is completely independent from the one of step 4, it included all the original variables and not
+only the means and standar deviations. 
+
+
 ### Script Description
 
 
