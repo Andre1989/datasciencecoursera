@@ -1,6 +1,6 @@
 ### Important note:
 By mistake, I updated a wrong previous version of the dataset in coursera. It is incomplete, since it does no have the
-tidy data as asked (step5), but only the steps from 1-4. Unfortunately, the deadline has passed. So I uploaded here in github the final dataset. It is up to you to accept this new tidy dataset or strictly follow the rules and only accept the previous one.
+tidy data as asked (step5), but only the data of steps 1-4. Unfortunately, the deadline has passed. So I uploaded here in github the final dataset. It is up to you to accept this new tidy dataset or strictly follow the rules and only accept the previous one.
 It was my fault anyways.
 
 ### Important note2:
